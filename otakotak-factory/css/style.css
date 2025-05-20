@@ -1,0 +1,97 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card .card-body {
+    border-radius: 0 0 12px 12px;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    color: orange !important;
+}
+
+.navbar-brand {
+    font-size: 1.25rem;
+}
+
+.navbar .bi {
+    transition: 0.3s;
+}
+
+.navbar .bi:hover {
+    color: orange;
+}
+
+
+footer a:hover {
+    color: orange !important;
+}
+
+footer img {
+    border-radius: 50%;
+}
+
+.card-title {
+    font-size: 1.05rem;
+    text-transform: uppercase;
+}
+
+.card-body {
+    padding: 1rem 0.5rem;
+}
+
+.rounded-4 {
+    border-radius: 1rem;
+}
+
+.rounded-bottom-4 {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+
+.produk .card .btn {
+    border-radius: 20px;
+}
+
+.produk .text-success {
+    color: #2e4b27 !important;
+    font-size: 1rem;
+}
+
+.produk .card {
+    background-color: transparent !important;
+}
+
+.tentang p {
+    text-align: justify;
+    line-height: 1.7;
+    color: #333;
+}
+
+.tentang h4 {
+    color: #151615;
+}
+
+section h2, section h4, section h5 {
+    color: #151615;
+}
+
+section p {
+    font-size: 1.05rem;
+}
